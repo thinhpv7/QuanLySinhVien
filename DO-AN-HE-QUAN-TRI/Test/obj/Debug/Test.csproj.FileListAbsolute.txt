@@ -1,0 +1,7 @@
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\bin\Debug\Test.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\bin\Debug\Test.pdb
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\bin\Debug\DataProvider.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\bin\Debug\DataProvider.pdb
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\obj\Debug\Test.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\Test\obj\Debug\Test.pdb

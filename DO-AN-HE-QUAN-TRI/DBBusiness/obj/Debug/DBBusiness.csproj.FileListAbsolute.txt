@@ -1,0 +1,7 @@
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\bin\Debug\DBBusiness.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\bin\Debug\DBBusiness.pdb
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\obj\Debug\DBBusiness.csprojResolveAssemblyReference.cache
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\obj\Debug\DBBusiness.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\obj\Debug\DBBusiness.pdb
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\bin\Debug\DataProvider.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DBBusiness\bin\Debug\DataProvider.pdb

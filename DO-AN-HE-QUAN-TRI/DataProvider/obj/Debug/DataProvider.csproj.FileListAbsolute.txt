@@ -1,0 +1,4 @@
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DataProvider\bin\Debug\DataProvider.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DataProvider\bin\Debug\DataProvider.pdb
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DataProvider\obj\Debug\DataProvider.dll
+D:\He-quan-tri-CSDL\DO-AN\CODE-C#\DO-AN-HE-QUAN-TRI\DataProvider\obj\Debug\DataProvider.pdb
